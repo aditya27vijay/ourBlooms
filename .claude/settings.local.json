@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(netstat -ano)",
+      "Bash(findstr :3000)",
+      "Bash(taskkill:*)",
+      "Bash(dir \"C:\\\\Users\\\\av709\\\\OneDrive\\\\Desktop\\\\ourBlooms\\\\server\\\\middleware\")"
+    ]
+  }
+}
